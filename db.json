@@ -2,6 +2,7 @@
   "posts": [],
   "user": [
     {
+    "id" : 1,
       "name": "Sushant Singh",
       "email" : "sushant@gmail.com",
       "password": "sushant@123",
